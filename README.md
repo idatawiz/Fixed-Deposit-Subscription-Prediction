@@ -1,4 +1,4 @@
-#Title:Fixed Deposit Subscription Analysis & Prediction.
+Title:Fixed Deposit Subscription Analysis & Prediction.
 
 Description: Fixed Deposit Subscription project aims to explore and understand the factors contributing to predict the subscription of fixed deposit. By leveraging the power of data analysis & predictive modelling, this analysis will provide valuable insights to help business by converting more customer for fixed deposit subscription, improve marketing strategy, and ultimately drive business growth.
 
